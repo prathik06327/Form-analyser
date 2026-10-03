@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+opencv-python
+ultralytics
+numpy
+python-multipart==0.0.32
